@@ -19,6 +19,9 @@ Run
 ```bash
 node server.js
 ```
+Sample:
+
+![alt text](field.gif)
 
 Go to the PORT you've set and search for the meme of your choice.
 
